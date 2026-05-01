@@ -1,11 +1,20 @@
 <div align="center">
 
-# Lydia Obeng Bema
-### Health Data Science | Data Analytics | AI & Machine Learning
+# Hi, I'm Lydia Obeng Bema 👋🏾
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lydia_Obeng_Bema-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-obeng-bema-93a647393/)
-[![GitHub](https://img.shields.io/badge/GitHub-lydiaobeng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lydiaobeng)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Science%20%26%20Analytics%20Roles-3fb950?style=for-the-badge&logo=googlemeet&logoColor=white)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=e879f9&center=true&vCenter=true&width=600&lines=MSc+Bioinformatics+%7C+Queen+Mary+University+of+London;500k%2B+genomic+records+analysed+%7C+London%2C+UK;Open+to+data+analytics+and+AI+roles)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-C084FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-obeng-bema-93a647393/)
+[![GitHub followers](https://img.shields.io/github/followers/lydiaobeng?style=for-the-badge&logo=github&logoColor=white&color=f9a8d4)](https://github.com/lydiaobeng)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Data%20Analytics%20%26%20AI-e879f9?style=for-the-badge)](https://www.linkedin.com/in/lydia-obeng-bema-93a647393/)
+
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-C084FC?style=flat-square)
+![AI & ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-a855f7?style=flat-square)
+![Health Data](https://img.shields.io/badge/Health%20Data-f9a8d4?style=flat-square&labelColor=f9a8d4&color=f9a8d4)
+![London](https://img.shields.io/badge/London%2C%20UK-f0abfc?style=flat-square)
+![MSc](https://img.shields.io/badge/MSc%20Bioinformatics-e879f9?style=flat-square)
 
 </div>
 
@@ -13,15 +22,11 @@
 
 ## About Me
 
-I'm a Health Data Scientist based in London with an MSc in Bioinformatics from Queen Mary University of London. My background is in biomedical science, and over time that led me into machine learning and data analytics — specifically applying them to real health problems.
+I'm based in London with a background in health and genomics. I've spent the last few years getting hands-on with data in different ways, from building ML pipelines on genomic datasets to reviewing AI outputs, and I'm now looking to establish a career in data analytics and AI, particularly in health or research.
 
-I've worked with large-scale genomic datasets, including the UK Biobank (500,000+ participants), built ML pipelines to predict genetic risk, and co-developed a full-stack population genetics web application. Alongside that, I work as an AI Content Quality Reviewer, evaluating generative AI outputs for accuracy and safety.
-
-I'm looking for roles in **data science** or **data analytics** where the work actually means something — health, research, or social impact.
-
-- MSc Bioinformatics — Queen Mary University of London
-- BSc Biomedical Science — Queen Mary University of London
-- Based in London | Open to opportunities
+- 📍 London, UK
+- 🎓 MSc Bioinformatics · BSc Biomedical Science — Queen Mary University of London
+- 💼 Open to data analytics and AI roles
 
 ---
 
@@ -49,6 +54,10 @@ I'm looking for roles in **data science** or **data analytics** where the work a
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+**All in one view**
+
+[![My Skills](https://skillicons.dev/icons?i=python,r,flask,git,github,jupyter&theme=dark)](https://skillicons.dev)
+
 ---
 
 ## Featured Project
@@ -58,29 +67,54 @@ I'm looking for roles in **data science** or **data analytics** where the work a
 End-to-end machine learning project using the UCI Cleveland dataset to predict heart disease risk.
 
 - Cleaned and prepared the data, engineered features, trained and evaluated classification models
-- Used scikit-learn throughout — from baseline models to performance evaluation
+- Used scikit-learn throughout, from baseline models to performance evaluation
 - Visualised patterns and results with Matplotlib and Seaborn
-- `Python` `scikit-learn` `Pandas` `Jupyter Notebook`
+
+`Python` `scikit-learn` `Pandas` `Jupyter Notebook`
 
 ---
 
 ## Education & Certifications
 
-| Qualification | Institution | Year |
-|---|---|---|
-| MSc Bioinformatics | Queen Mary University of London | 2023–2025 |
-| BSc Biomedical Science | Queen Mary University of London | 2019–2023 |
-| Microsoft Power BI Data Analyst | Microsoft / Coursera | In Progress |
-| Statistics for Data Analysis | Maven Analytics | Completed |
+![MSc Bioinformatics](https://img.shields.io/badge/MSc_Bioinformatics-Queen_Mary_University_of_London_|_2023–2025-C084FC?style=for-the-badge&labelColor=C084FC&color=374151&logoColor=white)
+
+![BSc Biomedical Science](https://img.shields.io/badge/BSc_Biomedical_Science-Queen_Mary_University_of_London_|_2019–2023-a855f7?style=for-the-badge&labelColor=a855f7&color=374151&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Microsoft_Power_BI_Data_Analyst-Microsoft_/_Coursera_|_In_Progress-f9a8d4?style=for-the-badge&labelColor=f9a8d4&color=374151&logoColor=white)
+
+![Statistics](https://img.shields.io/badge/Statistics_for_Data_Analysis-Maven_Analytics_|_Completed-e879f9?style=for-the-badge&labelColor=e879f9&color=374151&logoColor=white)
 
 ---
 
-## Let's Connect
+## Contribution Activity
 
-I'm actively looking for data science and data analyst roles in London — particularly in health, research, or public sector. Feel free to reach out.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lydiaobeng/lydiaobeng/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/lydiaobeng/lydiaobeng/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-obeng-bema-93a647393/)
+<img src="https://streak-stats.demolab.com?user=lydiaobeng&hide_border=false&ring=C084FC&fire=e879f9&currStreakLabel=C084FC&background=ffffff&dates=333333&stroke=f9a8d4&sideLabels=a855f7&currStreakNum=333333&sideNums=333333&border=f9a8d4"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="160"/>
+
+*Feel free to reach out — always happy to connect.*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-C084FC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lydia-obeng-bema-93a647393/)
+
+![Profile views](https://komarev.com/ghpvc/?username=lydiaobeng&color=C084FC&style=flat-square&label=Profile+Views)
+
+![footer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=9999&color=C084FC44&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+✨)
 
 </div>
